@@ -1,0 +1,24 @@
+{
+  "name": "gleamonade",
+  "publisher": "owozsh",
+  "displayName": "gleamonade",
+  "description": "",
+  "version": "0.0.1",
+  "repository": "https://github.com/owozsh/gleamonade",
+  "engines": {
+    "vscode": "^1.65.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "gleamonade",
+        "uiTheme": "vs-dark",
+        "path": "./out/gleamonade.json"
+      }
+    ]
+  },
+  "icon": "_icon.png"
+}
