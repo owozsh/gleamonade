@@ -3,7 +3,7 @@
   "publisher": "owozsh",
   "displayName": "gleamonade",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "repository": "https://github.com/owozsh/gleamonade",
   "engines": {
     "vscode": "^1.65.0"
