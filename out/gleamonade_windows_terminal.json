@@ -1,0 +1,32 @@
+{
+  "name": "gleamonade",
+
+  "white": "#efefef",
+  "brightWhite": "#efefef",
+
+  "red": "#e8bcde",
+  "brightRed": "#e8bcde",
+
+  "green": "#b9dfba",
+  "brightGreen": "#b9dfba",
+
+  "brightYellow": "#e4e1b5",
+  "yellow": "#e4e1b5",
+
+  "purple": "#e1c3a8",
+  "brightPurple": "#e1c3a8",
+
+  "blue": "#b6c0df",
+  "brightBlue": "#b6c0df",
+
+  "cyan": "#b0d5de",
+  "brightCyan": "#b0d5de",
+
+  "black": "#313131",
+  "brightBlack": "#313131",
+
+  "foreground": "#efefef",
+  "cursorColor": "#e8bcde",
+  "selectionBackground": "#e8bcde",
+  "background": "#262626"
+}
